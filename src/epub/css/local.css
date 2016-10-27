@@ -23,3 +23,14 @@ strong{
 [epub|type~="z3998:verse"] br{
 	display: none;
 }
+
+span[epub|type~="subtitle"]{
+	display: block;
+	font-weight: normal;
+}
+
+footer{
+	margin-top: 1em;
+	text-align: right;
+	font-style: italic;
+}
