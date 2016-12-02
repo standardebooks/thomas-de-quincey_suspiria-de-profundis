@@ -33,3 +33,18 @@ footer{
 	text-align: right;
 	font-style: italic;
 }
+
+i em{
+	font-style: normal;
+}
+
+h4 + p,
+header p,
+header + p{
+	text-indent: 0;
+}
+
+header{
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
