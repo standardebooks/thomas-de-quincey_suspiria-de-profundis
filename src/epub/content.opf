@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/thomas-de-quincey/suspiria-de-profundis</dc:identifier>
 		<dc:date>2016-10-27T20:04:39Z</dc:date>
-		<meta property="dcterms:modified">2016-10-27T20:04:39Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<meta property="dcterms:modified">2016-12-02T03:58:31Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -25,7 +25,8 @@
 		<dc:description id="description">A collection of prose poems inspired by De Quincey’s opium dreams.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONGDESCRIPTION
+			&lt;p&gt;The &lt;i&gt;Suspiria&lt;/i&gt; is a collection of prose poems, or what De Quincey called “impassioned prose,” eratically written and published starting in 1854. Each Suspiria is a short essay written in reflection of the opium dreams De Quincey would experience over the course of his lifetime addiction, and they are considered by some critics to be some of the finest examples of prose poetry in all of English literature.&lt;/p&gt;
+			&lt;p&gt;De Quincey originally planned them as a sequel of sorts to his &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater"&gt;Confessions of an English Opium-Eater&lt;/a&gt;&lt;/i&gt;, but the first set was published separately in &lt;i&gt;Blackwood’s Magazine&lt;/i&gt; in the spring and summer of that 1854.  De Quincey then published a revised version of those first Suspiria, along with several new ones, in his collected works.  During his life he kept a master list titles of the Suspiria he planned on writing, and completed serveral more before his death; those that survived time and fire were published posthumously in 1891.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
@@ -35,8 +36,8 @@
 		<dc:source>https://archive.org/details/collectedwritin07quingoog</dc:source>
 		<dc:source>https://books.google.com/books?id=e4BKAAAAYAAJ</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/6359</dc:source>
-		<meta property="se:word-count">58300</meta>
-		<meta property="se:reading-ease.flesch">52.33</meta>
+		<meta property="se:word-count">57811</meta>
+		<meta property="se:reading-ease.flesch">52.43</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Suspiria_de_Profundis</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-de-quincey_suspiria-de-profundis</meta>
 		<dc:creator id="author">Thomas De Quincey</dc:creator>
