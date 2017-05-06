@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/thomas-de-quincey/suspiria-de-profundis</dc:identifier>
 		<dc:date>2016-10-27T20:04:39Z</dc:date>
-		<meta property="dcterms:modified">2017-03-31T17:52:14Z</meta>
-		<meta property="se:revision-number">5</meta>
+		<meta property="dcterms:modified">2017-05-06T18:41:02Z</meta>
+		<meta property="se:revision-number">6</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,7 +36,7 @@
 		<dc:source>https://archive.org/details/collectedwritin07quingoog</dc:source>
 		<dc:source>https://books.google.com/books?id=e4BKAAAAYAAJ</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/6359</dc:source>
-		<meta property="se:word-count">57810</meta>
+		<meta property="se:word-count">57828</meta>
 		<meta property="se:reading-ease.flesch">52.43</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Suspiria_de_Profundis</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-de-quincey_suspiria-de-profundis</meta>
