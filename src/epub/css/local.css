@@ -42,7 +42,6 @@ i em{
 	font-style: normal;
 }
 
-h4 + p,
 header p,
 header + p{
 	text-indent: 0;
