@@ -5,6 +5,10 @@ abbr.name{
 	white-space: nowrap;
 }
 
+.signature{
+	font-variant: small-caps;
+}
+
 b,
 strong{
 	font-weight: normal;
@@ -35,7 +39,6 @@ span[epub|type~="subtitle"]{
 footer{
 	margin-top: 1em;
 	text-align: right;
-	font-style: italic;
 }
 
 i em{
