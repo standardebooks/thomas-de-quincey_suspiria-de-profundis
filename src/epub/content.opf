@@ -26,19 +26,18 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Suspiria de Profundis</dc:title>
 		<meta property="file-as" refines="#title">Suspiria de Profundis</meta>
 		<dc:subject id="subject-1">English essays</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/23788</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85043355</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A collection of prose poems inspired by De Quincey’s opium dreams.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The &lt;i&gt;Suspiria&lt;/i&gt; is a collection of prose poems, or what De Quincey called “impassioned prose,” eratically written and published starting in 1854. Each Suspiria is a short essay written in reflection of the opium dreams De Quincey would experience over the course of his lifetime addiction, and they are considered by some critics to be some of the finest examples of prose poetry in all of English literature.&lt;/p&gt;
 			&lt;p&gt;De Quincey originally planned them as a sequel of sorts to his &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/thomas-de-quincey/confessions-of-an-english-opium-eater"&gt;Confessions of an English Opium-Eater&lt;/a&gt;&lt;/i&gt;, but the first set was published separately in &lt;i&gt;Blackwood’s Magazine&lt;/i&gt; in the spring and summer of that 1854. De Quincey then published a revised version of those first Suspiria, along with several new ones, in his collected works. During his life he kept a master list of titles of the Suspiria he planned on writing, and completed serveral more before his death; those that survived time and fire were published posthumously in 1891.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/23788</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000539859</dc:source>
