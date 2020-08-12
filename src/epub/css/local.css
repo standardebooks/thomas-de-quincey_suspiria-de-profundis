@@ -58,6 +58,7 @@ i em{
 /* End all epigraphs */
 
 /* Epigraphs in section headers */
+article > header [epub|type~="epigraph"],
 section > header [epub|type~="epigraph"]{
 	display: inline-block;
 	margin: auto;
@@ -70,6 +71,7 @@ section > header [epub|type~="epigraph"] + *{
 }
 
 @supports(display: table){
+	article > header [epub|type~="epigraph"],
 	section > header [epub|type~="epigraph"]{
 		display: table;
 	}
