@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="preface.xhtml">
+		<ignore>
+			<code>t-064</code>
+			<reason>Title is correctly titlecased.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
