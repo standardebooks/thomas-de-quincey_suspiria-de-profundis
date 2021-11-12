@@ -34,6 +34,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85043355</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of prose poems inspired by De Quincey’s opium dreams.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The &lt;i&gt;Suspiria&lt;/i&gt; is a collection of prose poems, or what &lt;a href="https://standardebooks.org/ebooks/thomas-de-quincey"&gt;De Quincey&lt;/a&gt; called “impassioned prose,” erratically written and published starting in 1854. Each Suspiria is a short essay written in reflection of the opium dreams De Quincey would experience over the course of his lifetime addiction, and they are considered by some critics to be some of the finest examples of prose poetry in all of English literature.&lt;/p&gt;
