@@ -77,8 +77,8 @@
 		<meta property="file-as" refines="#transcriber-5">Widger, David</meta>
 		<meta property="se:url.authority.nacoaf" refines="#transcriber-5">http://id.loc.gov/authorities/names/no2011017869</meta>
 		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-6">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-6">Online Distributed Proofreading Team, The</meta>
+		<dc:contributor id="transcriber-6">Distributed Proofreaders</dc:contributor>
+		<meta property="file-as" refines="#transcriber-6">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-6">https://www.pgdp.net</meta>
 		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
