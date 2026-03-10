@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="preface.xhtml">
 		<ignore code="t-064">
+			<line>13</line>
 			<reason>Title is correctly titlecased.</reason>
 		</ignore>
 	</file>
