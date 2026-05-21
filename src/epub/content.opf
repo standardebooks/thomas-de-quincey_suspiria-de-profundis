@@ -88,12 +88,12 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">edc</meta>
-	<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wpr</meta>
-		</metadata>
+	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
